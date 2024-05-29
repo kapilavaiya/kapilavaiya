@@ -16,4 +16,4 @@
 
 ### Contact Me 📞 
 
-Feel free to reach out to me at 📨 [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com) for any collaboration or queries.
+Feel free to reach out to me at 📨 [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com) or 📞 Call/WhatsApp: [+919429984820](tel:+919429984820) for any collaboration or project enquiries.

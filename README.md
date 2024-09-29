@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a highly skilled mobile app developer with over 4+ years of experience in creating cross-platform mobile applications using React Native ( Typescript and Javascript )
+#### I am a highly skilled mobile app developer with over 5+ years of experience in creating cross-platform mobile applications using React Native ( Typescript and Javascript )
 
 ### About Me 🙋🏻‍♂️
 

@@ -1,19 +1,181 @@
-### Hi there 👋
+# Hi there 👋
 
-#### I am a highly skilled mobile app developer with over 5+ years of experience in creating cross-platform mobile applications using React Native ( Typescript and Javascript )
+I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years of experience** building cutting-edge mobile & web applications using the latest technologies.
 
-### About Me 🙋🏻‍♂️
+## 🙋🏻‍♂️ About Me
 
-🚀 I have extensive knowledge in hybrid mobile application development, with expertise in Redux, Redux-thunk, Google Map API, and current location. I have implemented Firebase and One Signal push notifications, Agora SDK for video calling and live video features, and analytics with event and deep linking.
+🚀 I specialize in creating **cross-platform mobile applications** and **modern web applications** with expertise in **React Native**, **React.js**, **Next.js**, **Node.js**, and **Nest.js**. I'm passionate about **AI-powered development** and leverage **AI pair programming** tools to build production-ready applications faster and more efficiently.
 
-💻 My skillset includes expertise in Git, Github, Gitlab, Bitbucket, and Trello for version control and project management. I have integrated social APIs such as Twitter, Facebook, Dropbox, Google APIs, and Instagram. I have experience with payment gateways like Razor Pay, Paypal, and Stripe, as well as RESTful API and web services development and integration using JSON, XML, and REST API.
+💻 My expertise extends to **AI development** and **AI pair programming** using tools like **ChatGPT**, **Claude**, **Code Augment AI**, **Cursor**, **Lovable**, **Base44**, and more. I specialize in transforming AI-generated code into production-ready applications, debugging AI code, and optimizing AI implementations for scalability.
 
-📊 I'm an expert in SQLite database, preferences, and data management. I have experience with in-app purchases, in-app subscriptions (Google Pay), Testflight, App Store Connect, and Play Console. I ensure the performance, quality, and responsiveness of applications and have experience in barcode QR code scanner.
+📊 I have extensive experience with **Firebase**, **Supabase**, **PostgreSQL**, **MongoDB**, and **SQLite** for database management. I've integrated various APIs including **Google Maps**, **Agora SDK** (video calling), **OneSignal** (push notifications), payment gateways (**Razorpay**, **PayPal**, **Stripe**), and social media APIs.
 
-💬 I have excellent communication skills and have worked effectively with remote teams using Slack, Zoom, and Skype.
+🌟 I'm passionate about creating high-quality applications that deliver seamless user experiences and am always eager to collaborate on exciting projects!
 
-🌟 I'm passionate about creating high-quality mobile apps that deliver a seamless user experience. Let's collaborate and build something amazing together!
+---
 
-### Contact Me 📞 
+## 🛠️ Tech Stack & Skills
 
-Feel free to reach out to me at 📨 [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com) or 📞 Call/WhatsApp: [+919429984820](tel:+919429984820) for any collaboration or project enquiries.
+### **Frontend**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**React Native** • **React.js** • **Next.js** • **TypeScript** • **JavaScript** • **Redux** • **Tailwind CSS** • **Expo**
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+**Node.js** • **Nest.js** • **Express.js** • **Python** • **FastAPI** • **REST APIs** • **GraphQL**
+
+### **Databases & Cloud**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Firebase** • **Supabase** • **PostgreSQL** • **MongoDB** • **SQLite** • **MySQL**
+
+### **AI & Development Tools** 🤖
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+**AI Pair Programming** • **ChatGPT** • **Claude** • **Cursor IDE** • **Code Augment AI** • **Lovable** • **Base44** • **OpenAI API** • **AI Code Generation** • **Production-Ready AI Code**
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Git** • **GitHub** • **GitLab** • **Bitbucket** • **Jira** • **Slack** • **Figma** • **Postman** • **VS Code**
+
+---
+
+## 🚀 Key Expertise
+
+✅ **Cross-Platform Mobile Development** - React Native (iOS & Android)  
+✅ **Modern Web Development** - React.js, Next.js with SSR/SSG  
+✅ **Backend Development** - Node.js, Nest.js, Express, Python, FastAPI  
+✅ **AI-Powered Development** - AI pair programming, code generation, and optimization  
+✅ **Database Management** - Firebase, Supabase, PostgreSQL, MongoDB, SQLite  
+✅ **API Integration** - REST APIs, GraphQL, third-party integrations  
+✅ **Payment Gateways** - Razorpay, PayPal, Stripe integration  
+✅ **Real-time Features** - Agora SDK (video calling), OneSignal (push notifications)  
+✅ **Maps & Location** - Google Maps API, current location services  
+✅ **App Store Management** - TestFlight, App Store Connect, Play Console  
+✅ **In-App Purchases** - Subscriptions, Google Pay integration  
+
+---
+
+## 💼 Featured Projects
+
+### 🚚 **Driver App** - Transport Management System
+**Role:** Senior Full Stack Developer  
+**Company:** Pearl Technologies (Canada)  
+**Tech:** React Native, Node.js, Firebase  
+**Link:** [View on App Store](https://apps.apple.com/ca/app/pearl-technologies-driver-app/id1492491638)
+
+A comprehensive transport management system for drivers, featuring real-time tracking, route optimization, and seamless communication between drivers and dispatchers.
+
+---
+
+### 👨🏻‍💻 **Totem** - Career Building Platform
+**Role:** Senior Full Stack Developer  
+**Company:** Totem (Belgium, Europe)  
+**Tech:** React.js, Next.js, Node.js, AI Integration  
+**Link:** [Visit Totem](https://totem.app)
+
+A cutting-edge career platform where companies post jobs and candidates can give AI-powered video interviews. Features include:
+- **AI-Powered Interviews** - Real-time AI analysis during video interviews
+- **Custom Forms** - Dynamic form editing during video interviews
+- **AI Candidate Matching** - Good fit/bad fit analysis using AI
+- **Video Interview Platform** - Seamless interview experience
+
+---
+
+### 💳 **Kachyng** - All-in-One Payment Gateway Solution
+**Role:** Senior Frontend Engineer  
+**Company:** Kachyng  
+**Tech:** React.js, Next.js, TypeScript  
+**Link:** [Visit Kachyng](https://kachyng.com/)
+
+A comprehensive payment gateway solution providing unified payment processing, subscription management, and financial analytics for businesses.
+
+---
+
+## 🤖 AI Development & Pair Programming
+
+I'm passionate about leveraging **AI tools** to accelerate development and build better applications:
+
+- **AI Pair Programming** - Expert in using ChatGPT, Claude, Cursor IDE for faster development
+- **AI Code Generation** - Transforming AI-generated code into production-ready applications
+- **AI Code Optimization** - Debugging, fixing, and optimizing AI-generated code
+- **Production-Ready AI Code** - Converting AI prototypes into scalable, maintainable systems
+- **AI Tools Mastery** - Proficient with Code Augment AI, Lovable, Base44, and emerging AI technologies
+
+I specialize in working with AI-generated code to make it production-ready, ensuring scalability, maintainability, and best practices.
+
+---
+
+## 📊 Experience Highlights
+
+- **7+ Years** of full-stack development experience
+- **Cross-platform mobile apps** for iOS and Android
+- **Modern web applications** with React.js and Next.js
+- **Scalable backend systems** with Node.js, Nest.js, and Python
+- **AI-powered solutions** and intelligent automation
+- **Production-ready code** with focus on performance and scalability
+- **Remote collaboration** with international teams
+
+---
+
+## 📞 Contact Me
+
+💬 **Let's collaborate and build something amazing together!**
+
+📨 **Email:** [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com)  
+📞 **Call/WhatsApp:** [+91 9429984820](tel:+919429984820)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapilavaiya&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilavaiya&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🔥 Current Focus
+
+- 🔨 Building scalable full-stack applications
+- 🤖 Exploring AI-powered development workflows
+- 📱 Creating seamless cross-platform mobile experiences
+- ⚡ Optimizing performance and user experience
+- 🚀 Contributing to open-source projects
+
+---
+
+<div align="center">
+
+### ⚡ Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=kapilavaiya&color=blueviolet&style=flat-square)
+
+**Open to collaboration on exciting projects!** 🚀
+
+</div>
+
+---
+
+*Last Updated: January 2025*

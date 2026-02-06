@@ -148,11 +148,16 @@ I specialize in working with AI-generated code to make it production-ready, ensu
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapilavaiya&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilavaiya&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <a href="https://github.com/kapilavaiya">
+    <img src="https://img.shields.io/github/followers/kapilavaiya?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/kapilavaiya?tab=repositories">
+    <img src="https://img.shields.io/github/stars/kapilavaiya?affiliations=OWNER&style=social" alt="GitHub stars" />
+  </a>
+</p>
 
 ---
 

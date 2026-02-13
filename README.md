@@ -2,6 +2,19 @@
 
 I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years of experience** building cutting-edge mobile & web applications using the latest technologies.
 
+---
+
+## 📞 Contact Me
+
+💬 **Let's collaborate and build something amazing together!**
+
+📨 **Email:** [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com)  
+📞 **Call/WhatsApp:** [+91 9429984820](tel:+919429984820)
+𝕏 **Twitter:** [@kapilavaiya](https://twitter.com/kapilavaiya)
+🧑‍💼 **Linkedin:** [@kapilavaiya](https://www.linkedin.com/in/kapilavaiya/)
+
+---
+
 ## 🙋🏻‍♂️ About Me
 
 🚀 I specialize in creating **cross-platform mobile applications** and **modern web applications** with expertise in **React Native**, **React.js**, **Next.js**, **Node.js**, and **Nest.js**. I'm passionate about **AI-powered development** and leverage **AI pair programming** tools to build production-ready applications faster and more efficiently.
@@ -136,15 +149,6 @@ I specialize in working with AI-generated code to make it production-ready, ensu
 - **AI-powered solutions** and intelligent automation
 - **Production-ready code** with focus on performance and scalability
 - **Remote collaboration** with international teams
-
----
-
-## 📞 Contact Me
-
-💬 **Let's collaborate and build something amazing together!**
-
-📨 **Email:** [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com)  
-📞 **Call/WhatsApp:** [+91 9429984820](tel:+919429984820)
 
 ---
 

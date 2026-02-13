@@ -9,10 +9,10 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 💬 **Let's collaborate and build something amazing together!**
 
 📨 **Email:** [avaiyakapil@gmail.com](mailto:avaiyakapil@gmail.com)  
-📞 **Call/WhatsApp:** [+91 9429984820](tel:+919429984820)
-𝕏 **Twitter:** [@kapilavaiya](https://twitter.com/kapilavaiya)
+📞 **Call/WhatsApp:** [+91 9429984820](tel:+919429984820)  
+𝕏 **Twitter:** [@kapilavaiya](https://twitter.com/kapilavaiya)  
 🧑‍💼 **Linkedin:** [@kapilavaiya](https://www.linkedin.com/in/kapilavaiya/)
-
+ 
 ---
 
 ## 🙋🏻‍♂️ About Me

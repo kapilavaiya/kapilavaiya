@@ -8,7 +8,7 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ### ⚡ Quick Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=kapilavaiya&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=kapilavaiya&style=for-the-badge&color=blue)  
 [![Upwork Badge](https://img.shields.io/badge/Upwork-Profile-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/avaiyakapil)  
 
 **Open to collaboration on exciting projects!** 🚀

@@ -41,6 +41,10 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapilavaiya&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilavaiya&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilavaiya&theme=default&utcOffset=8)
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend**
@@ -101,10 +105,6 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 ✅ **Maps & Location** - Google Maps API, current location services  
 ✅ **App Store Management** - TestFlight, App Store Connect, Play Console  
 ✅ **In-App Purchases** - Subscriptions, Google Pay integration  
-
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilavaiya&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilavaiya&theme=default)
 
 ---
 

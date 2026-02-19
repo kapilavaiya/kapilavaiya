@@ -4,7 +4,7 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### ⚡ Quick Stats
 

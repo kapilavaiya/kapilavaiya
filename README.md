@@ -41,7 +41,7 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapilavaiya&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilavaiya&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilavaiya&theme=default&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilavaiya&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kapilavaiya&theme=default) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilavaiya&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilavaiya&theme=default)
 
 
 ---

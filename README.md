@@ -64,7 +64,7 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 **AI Pair Programming** • **ChatGPT** • **Claude** • **Cursor IDE** • **Code Augment AI** • **Lovable** • **Base44** • **OpenAI API** • **AI Code Generation** • **Production-Ready AI Code**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilavaiya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilavaiya)]
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

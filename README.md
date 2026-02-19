@@ -4,6 +4,19 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ---
 
+<div align="center">
+
+### ⚡ Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=kapilavaiya&color=blueviolet&style=flat-square)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-Profile-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/avaiyakapil)  
+
+**Open to collaboration on exciting projects!** 🚀
+
+</div>
+
+---
+
 ## 📞 Contact Me
 
 💬 **Let's collaborate and build something amazing together!**
@@ -175,16 +188,5 @@ I specialize in working with AI-generated code to make it production-ready, ensu
 
 ---
 
-<div align="center">
-
-### ⚡ Quick Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=kapilavaiya&color=blueviolet&style=flat-square)
-
-**Open to collaboration on exciting projects!** 🚀
-
-</div>
-
----
 
 *Last Updated: January 2025*

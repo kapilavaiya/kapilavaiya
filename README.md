@@ -104,6 +104,10 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ---
 
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilavaiya)
+
+---
+
 ## 💼 Featured Projects
 
 ### 🚚 **Driver App** - Transport Management System

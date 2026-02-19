@@ -8,8 +8,9 @@ I'm **Kapil Avaiya**, a highly skilled **Full Stack Developer** with **7+ years 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kapilavaiya&style=for-the-badge&color=blue)  
 [![Upwork Badge](https://img.shields.io/badge/Upwork-Profile-success?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/avaiyakapil)
+
 [![Topmate](https://img.shields.io/badge/Topmate-io)](https://topmate.io/kapilavaiya)
-[![Contra](https://img.shields.io/badge/Topmate-io)](https://contra.com/kapilavaiya)
+[![Contra](https://img.shields.io/badge/Contra-io)](https://contra.com/kapilavaiya)
 
 **Open to collaboration on exciting projects!** 🚀
 
